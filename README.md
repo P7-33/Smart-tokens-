@@ -2,6 +2,7 @@
 
 7defa874-03f5-4c51-8e7a-304389b7b21d key Api
 https://github.com/topics/smart-contracts
+https://github.com/topics/bot
 python
 ethereum
 
@@ -11,7 +12,7 @@ ico
 solidity
 crowdsale
 solidity-contracts
-security-token-service
+security-token-service in
 security-token
 Updated on 11 Jun
 Python
